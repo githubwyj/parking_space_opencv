@@ -6,6 +6,7 @@
 
 + 水平车位识别
 
+![demo-img](https://github.com/githubwyj/parking_space_opencv/blob/master/screenshot/result.png?raw=true)
 
 
 ## Feature
