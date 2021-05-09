@@ -1,6 +1,6 @@
 # parking_space_opencv
 
-使用opencv实现停车场车位识别,使用tesseract实现车位编号文字识别
+使用[opencv](https://github.com/bytedeco/javacpp-presets/tree/master/opencv)实现停车场车位识别,使用[tesseract](https://github.com/bytedeco/javacpp-presets/tree/master/tesseract)实现车位编号文字识别
 
 ## 主要事项
 1. Tesseract在DPI至少为300 dpi的图像上效果最佳
