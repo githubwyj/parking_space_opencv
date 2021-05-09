@@ -14,3 +14,5 @@ target/
 logs/
 log/
 
+*.traineddata
+
