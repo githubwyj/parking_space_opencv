@@ -6,10 +6,10 @@
 1. Tesseract在DPI至少为300 dpi的图像上效果最佳
 ## 已完成
 
-+ 水平车位识别
++ 水平车位识别  
 ![demo-img](https://github.com/githubwyj/parking_space_opencv/blob/master/screenshot/result.png?raw=true)
-+ 车位编号识别
-![demo-img](https://github.com/githubwyj/parking_space_opencv/blob/master/resources/images/text/1.png?raw=true)
++ 车位编号识别  
+![demo-img](https://github.com/githubwyj/parking_space_opencv/blob/master/resources/images/text/1.png?raw=true)  
 ![demo-img](https://github.com/githubwyj/parking_space_opencv/blob/master/screenshot/txt-result.png?raw=true)
 
 ## 将实现已下功能
