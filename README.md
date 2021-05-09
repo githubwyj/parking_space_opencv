@@ -7,10 +7,10 @@
 ## 已完成
 
 + 水平车位识别  
-![demo-img](https://github.com/githubwyj/parking_space_opencv/blob/master/screenshot/result.png?raw=true)
+![result.png](https://github.com/githubwyj/parking_space_opencv/blob/master/screenshot/result.png?raw=true)
 + 车位编号识别  
-![demo-img](https://github.com/githubwyj/parking_space_opencv/blob/master/resources/images/text/1.png?raw=true)  
-![demo-img](https://github.com/githubwyj/parking_space_opencv/blob/master/screenshot/txt-result.png?raw=true)
+![1.png](https://raw.githubusercontent.com/githubwyj/parking_space_opencv/master/src/main/resources/images/text/1.png)  
+![txt-result.png](https://github.com/githubwyj/parking_space_opencv/blob/master/screenshot/txt-result.png?raw=true)
 
 ## 将实现已下功能
 
