@@ -3,13 +3,13 @@ package com.sucok.parking_space.core.factory;
 import cn.hutool.core.lang.Assert;
 
 import com.sucok.parking_space.core.output.SpaceResultModel;
-import com.sucok.parking_space.core.tesseract.TextDistinguish;
 import lombok.Getter;
 import org.bytedeco.javacpp.DoublePointer;
 import org.bytedeco.javacpp.indexer.FloatIndexer;
 import org.bytedeco.opencv.global.opencv_highgui;
 import org.bytedeco.opencv.global.opencv_imgproc;
 import org.bytedeco.opencv.opencv_core.*;
+import org.opencv.imgproc.Imgproc;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,7 +18,6 @@ import java.util.Random;
 import static org.bytedeco.opencv.global.opencv_core.*;
 import static org.bytedeco.opencv.global.opencv_core.minMaxLoc;
 import static org.bytedeco.opencv.global.opencv_imgcodecs.imwrite;
-import static org.bytedeco.opencv.global.opencv_imgproc.warpAffine;
 
 
 /**
@@ -154,6 +153,7 @@ public class MatchingFactory {
         }
         return matches;
     }
+
 
 
 }
