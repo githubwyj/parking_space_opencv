@@ -12,7 +12,7 @@
 ![1.png](https://raw.githubusercontent.com/githubwyj/parking_space_opencv/master/src/main/resources/images/text/1.png)  
 ![txt-result.png](https://github.com/githubwyj/parking_space_opencv/blob/master/screenshot/txt-result.png?raw=true)
 
-## 将实现已下功能
+## 将实现以下功能
 
 + 有角度的车位识别
 
